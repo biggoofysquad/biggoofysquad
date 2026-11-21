@@ -1,16 +1,13 @@
-## Hi there 👋
+## hey, i'm biggoofysquad 👋
 
-<!--
-**biggoofysquad/biggoofysquad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer building reliable APIs and distributed services. Go & Python. Based in Malaysia.
 
-Here are some ideas to get you started:
+- learning Go the slow way
+- usually building small tools nobody asked for
+- rewrites it once, then leaves it alone
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=biggoofysquad&hide_border=true&theme=nightowl" alt="Commit streak" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biggoofysquad&layout=compact&langs_count=8&hide_border=true&theme=nightowl" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/Redis-ff7b72?style=for-the-badge&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Go-ff7b72?style=for-the-badge&logoColor=white" alt="Go" /> <img src="https://img.shields.io/badge/PostgreSQL-ff7b72?style=for-the-badge&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/FastAPI-ff7b72?style=for-the-badge&logoColor=white" alt="FastAPI" />
